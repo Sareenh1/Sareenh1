@@ -28,11 +28,10 @@
 
 ```yaml
 name:      Sareen Kumar
-handle:    @Sareenh1  (he/him)
-location:  Bengaluru, India 🇮🇳
+handle:    @Sareenh1  
+location:  Zaheerabad, India 🇮🇳
 company:   Amplied Technologies
 role:      DevOps & Cloud Engineer
-status:    🟢 Open to opportunities
 ```
 
 ### 🎯 Currently
