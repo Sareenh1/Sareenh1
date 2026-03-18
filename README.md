@@ -189,6 +189,6 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a3a2a,100:0d1117&height=100&section=footer" width="100%"/>
 
-<sub>⚡ <em>477 contributions and counting · Bengaluru, India · <strong>Shipping infra, not excuses.</strong></em></sub>
+<sub>⚡ <em>477 contributions and counting · Zaheerabad, India · <strong>Shipping infra, not excuses.</strong></em></sub>
 
 </div>
