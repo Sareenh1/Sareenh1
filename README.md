@@ -1,19 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:111827,100:0d1117&height=200&section=header&text=SAREEN%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20GitOps%20Practitioner&descAlignY=68&descSize=15&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:111827,100:0d1117&height=200&section=header&text=SAREEN%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=DevOps%20Engineer%20%E2%80%A2%20GitOps%20Practitioner&descAlignY=68&descSize=15&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=☸️+Kubernetes+%7C+ArgoCD+%7C+Helm+%7C+GitOps;🏗️+Terraform+%7C+Ansible+%7C+AWS+%7C+IaC;🐳+Docker+%7C+EKS+%7C+ECR+%7C+Containers;📊+Prometheus+%7C+Grafana+%7C+Loki+%7C+Jaeger;🚀+Shipping+infra%2C+not+excuses.+Always.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sareen_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sareen-kumar)
-[![Hashnode](https://img.shields.io/badge/Blog-hashnode.com/@SareenKumar-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SareenKumar)
-[![Gmail](https://img.shields.io/badge/Email-Sareenh10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sareenh10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sareenh1.github.io-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://sareenh1.github.io)
 
 <br/>
 
@@ -29,14 +22,13 @@
 ```yaml
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   name:       Sareen Kumar                                  │
-│   handle:     @Sareenh1                                     │
-│   location:   Zaheerabad, Telangana, India  🇮🇳              │
+│   name:       Sareen Kumar                                  
+│   handle:     @Sareenh1                                     
+│   location:   Zaheerabad, Telangana, India  🇮🇳              
 │   company:    Amplied Technologies LLP                      │
 │   role:       Jr. DevOps & Cloud Engineer                   │
-│   focus:      Kubernetes · Terraform · GitOps · AWS         │
-│   blog:       hashnode.com/@SareenKumar                     │
-│   status:     Open to DevOps · SRE · Cloud roles  🟢        │
+│   focus:      Kubernetes · Terraform · GitOps · AWS         
+│   status:     Open to DevOps · SRE · Cloud roles  🟢        
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -50,7 +42,7 @@
 | 🏗️ | **Infrastructure as Code** — Modular Terraform for AWS | VPC · EKS · RDS · IAM — versioned & env-agnostic |
 | ☸️ | **Kubernetes & GitOps** — ArgoCD auto-sync on K8s | Every Git push = live deploy. Zero kubectl needed. |
 | 📊 | **Observability Stack** — Full visibility pipeline | Prometheus · Grafana · Loki · Jaeger |
-| ✍️ | **Writing** — DevOps deep-dives on Hashnode | GitOps · K8s internals · Terraform patterns |
+| ✍️ | **Writing** — DevOps deep-dives | GitOps · K8s internals · Terraform patterns |
 
 ---
 
@@ -110,9 +102,9 @@
 
 | Project | What it does | Stack | Impact |
 |---------|-------------|-------|--------|
-| [⎈ **GitOps-apps**](https://github.com/Sareenh1/GitOps-apps) | Production GitOps — every Git push auto-syncs to K8s via ArgoCD. Zero manual deploys. | `ArgoCD` `K8s` `Helm` `HCL` | ⭐ 2 · GitOps |
+| [⎈ **GitOps-apps**](https://github.com/Sareenh1/GitOps-apps) | Production GitOps — every Git push auto-syncs to K8s via ArgoCD. Zero manual deploys. | `ArgoCD` `K8s` `Helm` `HCL` | ⭐ 2 |
 | [🐳 **Dockerized-3-Tier-App**](https://github.com/Sareenh1/Dockerized-3-Tier-E-Commerce-Web-Application) | Full e-commerce stack — React + Node.js + PostgreSQL + Nginx, fully containerized | `Docker` `JS` `Nginx` | ⭐ 2 · ⑂ 6 |
-| [🏗️ **aws-IaC-infra**](https://github.com/Sareenh1/aws-IaC-infra) | Modular Terraform for AWS — VPC, EKS, RDS, IAM, versioned across all envs | `Terraform` `AWS` `EKS` `HCL` | IaC at scale |
+| [🏗️ **aws-IaC-infra**](https://github.com/Sareenh1/aws-IaC-infra) | Modular Terraform — VPC, EKS, RDS, IAM, versioned across all envs | `Terraform` `AWS` `EKS` `HCL` | IaC at scale |
 | [🔵 **blue-green-k8s**](https://github.com/Sareenh1/blue-green-k8s) | Zero-downtime blue-green deploys on K8s with instant rollback capability | `K8s` `Helm` `Nginx` | Zero downtime |
 | [🚀 **Elevate-Labs-Minikube**](https://github.com/Sareenh1/Elevate-Labs-Minikube) | Local K8s dev env — Minikube + Helm chart templates + service mesh configs | `K8s` `Minikube` `Helm` | Dev tooling |
 | [📦 **starpi-blog-platform**](https://github.com/Sareenh1/starpi-blog-platform) | Strapi CMS + GitHub Actions CI/CD + Docker deployment + Nginx reverse proxy | `TypeScript` `Docker` `Strapi` | Full CI/CD |
@@ -156,59 +148,16 @@
 
 ---
 
-## 📝 Latest from My Blog
-
-<!-- HASHNODE_BLOG:START -->
-> 🔗 I write DevOps deep-dives at **[hashnode.com/@SareenKumar](https://hashnode.com/@SareenKumar)** — GitOps, Kubernetes internals, Terraform patterns, CI/CD walkthroughs
-<!-- HASHNODE_BLOG:END -->
-
-<details>
-<summary>⚙️ <strong>Auto-sync Hashnode posts to this README</strong></summary>
-<br/>
-
-Create `.github/workflows/hashnode.yml`:
-
-```yaml
-name: Sync Hashnode Blog Posts
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://hashnode.com/@SareenKumar/rss.xml"
-          comment_tag_name: "HASHNODE_BLOG"
-          max_post_count: 5
-```
-
-</details>
-
----
-
-## 🤝 Open to Opportunities
+## 🤝 Let's Connect
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   🎯  Targeting: DevOps · Cloud · SRE · Platform Eng.        ║
-║   📍  Location:  Zaheerabad, India · Open to Remote          ║
-║   ⚡  Stack:     K8s · Terraform · AWS · ArgoCD · GitOps     ║
-║   💬  DM me:     Let's automate something great together      ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+💼 &nbsp;&nbsp; 📧 &nbsp;&nbsp; 🌐 &nbsp;&nbsp; 🐙
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sareen-kumar)
-[![Read My Blog](https://img.shields.io/badge/Read_My_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SareenKumar)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sareenh10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://sareenh1.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/sareen-kumar)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:Sareenh10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://sareenh1.github.io)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Sareenh1)
 
 </div>
 
