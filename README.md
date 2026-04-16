@@ -167,6 +167,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub>⚡ <em>483 contributions and counting · Zaheerabad, India · <strong>Shipping infra, not excuses.</strong></em></sub>
+<sub>⚡ <em>483 contributions and counting · Zaheerabad, India ·</strong></em></sub>
 
 </div>
